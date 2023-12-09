@@ -1,1 +1,2 @@
-print("merge_conflict")
+print("different change")
+print ("diff")
