@@ -1,3 +1,3 @@
 # brudite
-created this in order to learn to clone this through terminal
-just wanted to commit something
+Basic- contains the list of basic questions
+Medium- contains the list of medium questions
